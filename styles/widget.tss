@@ -1,0 +1,15 @@
+"Label": {
+	color: '#000',
+	font: {
+		fontSize: 18,
+		fontWeight: 'bold'
+	},
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+},
+
+"#cage":{
+  image:WPATH('cage300x200.jpg'),
+  width:300,
+  height:200
+}

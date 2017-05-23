@@ -1,0 +1,17 @@
+{
+  "name": "alloy-widget-ti.cage",
+  "version": "1.0.0",
+  "description": "Cage widget",
+  "main": "widget.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appcelerator",
+    "titanium",
+    "alloy",
+    "widget"
+  ],
+  "author": "Ross MacFarlane",
+  "license": "MIT"
+}
