@@ -12,6 +12,11 @@
     "alloy",
     "widget"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossmacfarlane/ti.cage.git"
+  },
+  "homepage": "https://github.com/rossmacfarlane/ti.cage#readme",
   "author": "Ross MacFarlane",
   "license": "MIT"
 }
